@@ -5,3 +5,6 @@ si-(p*t*r)/100
 print("Simple interest is:",si)
 ci=p*((1+r/100)**t)-p
 print("compund interest is :",ci)
+
+
+#sachin
